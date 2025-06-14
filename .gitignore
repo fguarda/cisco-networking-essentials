@@ -1,0 +1,14 @@
+# Ignora arquivos de configuração do Packet Tracer
+*.pkt~
+
+# Ignora arquivos temporários criados pelo sistema
+*.swp
+
+# Ignora diretórios do sistema de backup
+*.bak
+
+# Ignora o arquivo de log de terminal
+*.log
+
+# Ignora arquivos de pacotes gerados por Linux
+*.deb
